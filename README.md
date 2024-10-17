@@ -1,3 +1,3 @@
 # Check spitter
 
-App made for avoiding unnecessary headeaches at the end of the evening, made with React.
+App made for avoiding unnecessary headeaches at the end of a pleasant evening, made with React.
